@@ -1,0 +1,3 @@
+# README
+
+So many manifests
